@@ -1,0 +1,6 @@
+product_id,product_name,category,unit_price
+P100,Laptop,Electronics,1200.00
+P101,Monitor,Electronics,300.00
+P102,Keyboard,Accessories,50.00
+P103,Mouse,Accessories,25.00
+P104,External SSD,Storage,150.00

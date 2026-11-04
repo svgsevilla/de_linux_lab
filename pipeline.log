@@ -1,0 +1,11 @@
+2026-01-10 01:00:01 INFO Pipeline Started
+2026-01-10 01:00:05 INFO Loading customers.csv
+2026-01-10 01:00:08 INFO Customer records loaded: 10
+2026-01-10 01:00:12 INFO Loading products.csv
+2026-01-10 01:00:15 INFO Product records loaded: 5
+2026-01-10 01:00:20 INFO Loading sales.csv
+2026-01-10 01:00:22 INFO Sales records loaded: 16
+2026-01-10 01:00:24 WARNING Unknown product detected: P999
+2026-01-10 01:00:25 ERROR Product lookup failed
+2026-01-10 01:00:25 ERROR Revenue calculation aborted
+2026-01-10 01:00:25 INFO Pipeline terminated
